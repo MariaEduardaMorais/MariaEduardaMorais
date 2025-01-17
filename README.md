@@ -21,7 +21,20 @@ Je m'appelle Maria Eduarda Rodrigues Alves Morais, j'ai 21 ans, je suis originai
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Social
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/maria-eduarda-m-4a7181262/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/duda_morais05/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+---
+
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -123,7 +136,7 @@ Je m'appelle Maria Eduarda Rodrigues Alves Morais, j'ai 21 ans, je suis originai
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
@@ -145,17 +158,7 @@ Je m'appelle Maria Eduarda Rodrigues Alves Morais, j'ai 21 ans, je suis originai
 
 <br/>
 <br/>
----
+
+###
 
 <img src="https://raw.githubusercontent.com/MariaEduardaMorais/MariaEduardaMorais/output/snake.svg" alt="Snake animation" />
-
----
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
-</div>
-
-###
