@@ -1,12 +1,5 @@
 # 👩🏻‍💻 Maria Eduarda Rodrigues Alves Morais
 
-**`Técnica em Informática`**
-**`Analista de Sistemas`**
-
-Me chamo Maria Eduarda Rodrigues Alves Morais, tenho 21 anos, sou natural de Ouro Branco, MG, e sou brasileira. Concluí o ensino médio integrado com técnico em informática no IFMG - Campus Ouro Branco. Atualmente, estou cursando Sistemas de Informação no IFMG - Campus Ouro Branco. Tenho uma paixão profunda por programação e estou sempre ansiosa para aprender e explorar novas tecnologias. Também sou uma leitora ávida de livros de ficção e fantasia e adoro ouvir música no meu tempo livre. Meu foco principal é combinar tecnologia com criatividade, buscando sempre entregar soluções inteligentes e eficientes.
-
----
-
 **`Computer Technician`**
 **`Systems Analyst`**
 
