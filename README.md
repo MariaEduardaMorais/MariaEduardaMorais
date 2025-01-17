@@ -1,5 +1,9 @@
 # 👩🏻‍💻 Maria Eduarda Rodrigues Alves Morais
 
+
+<img src="https://raw.githubusercontent.com/MariaEduardaMorais/MariaEduardaMorais/output/snake.svg" alt="Snake animation" />
+
+
 **`Computer Technician`**
 **`Systems Analyst`**
 
@@ -153,5 +157,3 @@ Je m'appelle Maria Eduarda Rodrigues Alves Morais, j'ai 21 ans, je suis originai
 <br/>
 
 ###
-
-<img src="https://raw.githubusercontent.com/MariaEduardaMorais/MariaEduardaMorais/output/snake.svg" alt="Snake animation" />
