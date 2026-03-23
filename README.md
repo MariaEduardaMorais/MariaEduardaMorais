@@ -7,14 +7,14 @@
 **`Computer Technician`**
 **`Systems Analyst`**
 
-My name is Maria Eduarda, I am 21 years old, I am from Ouro Branco, MG, and I am Brazilian. I completed my high school education integrated with a technical course in Computer Science at IFMG - Ouro Branco Campus. Currently, I am pursuing a degree in Information Systems at IFMG - Ouro Branco Campus. I have a deep passion for programming, and I am always eager to learn and explore new technologies. I am also an avid reader of fiction and fantasy books, and I enjoy listening to music in my free time. My primary focus is to combine technology with creativity, striving to deliver intelligent and efficient solutions.
+My name is Maria Eduarda, I am 22 years old, I am from Ouro Branco, MG, and I am Brazilian. I completed my high school education integrated with a technical course in Computer Science at IFMG - Ouro Branco Campus. Currently, I am pursuing a degree in Information Systems at IFMG - Ouro Branco Campus. I have a deep passion for programming, and I am always eager to learn and explore new technologies. I am also an avid reader of fiction and fantasy books, and I enjoy listening to music in my free time. My primary focus is to combine technology with creativity, striving to deliver intelligent and efficient solutions.
 
 ---
 
 **`Technicienne en Informatique`**
 **`Analyste en Systèmes`**
 
-Je m'appelle Maria Eduarda, j'ai 21 ans, je suis originaire d'Ouro Branco, MG, et je suis brésilienne. J'ai terminé mes études secondaires avec une formation technique en informatique à l'IFMG - Campus Ouro Branco. Actuellement, je poursuis des études en Systèmes d'Information à l'IFMG - Campus Ouro Branco. Je suis passionnée par la programmation et j'aime apprendre de nouvelles technologies. En plus de cela, je suis une lectrice assidue de romans de fiction et de fantasy, et j'apprécie écouter de la musique pendant mon temps libre. Mon objectif est de combiner la technologie avec la créativité pour offrir des solutions intelligentes et efficaces.
+Je m'appelle Maria Eduarda, j'ai 22 ans, je suis originaire d'Ouro Branco, MG, et je suis brésilienne. J'ai terminé mes études secondaires avec une formation technique en informatique à l'IFMG - Campus Ouro Branco. Actuellement, je poursuis des études en Systèmes d'Information à l'IFMG - Campus Ouro Branco. Je suis passionnée par la programmation et j'aime apprendre de nouvelles technologies. En plus de cela, je suis une lectrice assidue de romans de fiction et de fantasy, et j'apprécie écouter de la musique pendant mon temps libre. Mon objectif est de combiner la technologie avec la créativité pour offrir des solutions intelligentes et efficaces.
 
 ---
 
